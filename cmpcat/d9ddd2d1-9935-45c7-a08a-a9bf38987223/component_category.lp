@@ -1,0 +1,10 @@
+(librepcb_component_category d9ddd2d1-9935-45c7-a08a-a9bf38987223
+ (name "PCB Modules, Breakout Boards")
+ (description "")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2021-07-12T23:02:59Z)
+ (deprecated false)
+ (parent none)
+)

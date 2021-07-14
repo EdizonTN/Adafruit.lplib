@@ -1,0 +1,10 @@
+(librepcb_library 8bdf30c0-eff9-4e76-b2bf-96f398548cbd
+ (name "Adafruit")
+ (description "This is a unnoficial testing LibrePCB library. Adafruit modules.")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2021-07-12T22:56:10Z)
+ (deprecated false)
+ (url "")
+)
